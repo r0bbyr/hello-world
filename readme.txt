@@ -1,4 +1,1 @@
-#!/bin/bash
-
-echo hello-world
-echo EOF
+This is a blank readme file for the hello world project
